@@ -13,7 +13,7 @@ export const data = [
   },
   {
     id: 3,
-    reason: "Reason 4",
+    reason: "Reason 10",
     title: "How's it going bro ?",
     description: "Hi there bro mauj lo roz lo nhi mile toh khoj lo"
   }
